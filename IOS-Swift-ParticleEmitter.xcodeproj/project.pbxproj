@@ -15,6 +15,7 @@
 		FA8FD7EF2116DC9100E097D6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8FD7ED2116DC9100E097D6 /* Main.storyboard */; };
 		FA8FD7F12116DC9500E097D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA8FD7F02116DC9500E097D6 /* Assets.xcassets */; };
 		FA8FD7F42116DC9500E097D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA8FD7F22116DC9500E097D6 /* LaunchScreen.storyboard */; };
+		FA8FD7FC2116DCB700E097D6 /* Rain.sks in Resources */ = {isa = PBXBuildFile; fileRef = FA8FD7FB2116DCB600E097D6 /* Rain.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		FA8FD7F02116DC9500E097D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA8FD7F32116DC9500E097D6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA8FD7F52116DC9500E097D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8FD7FB2116DCB600E097D6 /* Rain.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Rain.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				FA8FD7F02116DC9500E097D6 /* Assets.xcassets */,
 				FA8FD7F22116DC9500E097D6 /* LaunchScreen.storyboard */,
 				FA8FD7F52116DC9500E097D6 /* Info.plist */,
+				FA8FD7FB2116DCB600E097D6 /* Rain.sks */,
 			);
 			path = "IOS-Swift-ParticleEmitter";
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 				FA8FD7EF2116DC9100E097D6 /* Main.storyboard in Resources */,
 				FA8FD7E62116DC9000E097D6 /* GameScene.sks in Resources */,
 				FA8FD7F12116DC9500E097D6 /* Assets.xcassets in Resources */,
+				FA8FD7FC2116DCB700E097D6 /* Rain.sks in Resources */,
 				FA8FD7F42116DC9500E097D6 /* LaunchScreen.storyboard in Resources */,
 				FA8FD7E82116DC9100E097D6 /* Actions.sks in Resources */,
 			);
